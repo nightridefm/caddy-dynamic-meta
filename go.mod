@@ -1,4 +1,4 @@
-module github.com/nightridefm/caddy-dynamic-meta/v2
+module github.com/nightridefm/caddy-social-meta/v2
 
 go 1.13
 
